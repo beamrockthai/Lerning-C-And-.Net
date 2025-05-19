@@ -1,0 +1,8 @@
+C:\Users\BeamYoHand\Desktop\RepoGitVsStudio\lean C# and .Net\lean C# and .Net\bin\Debug\lean_C__and.Net.exe.config
+C:\Users\BeamYoHand\Desktop\RepoGitVsStudio\lean C# and .Net\lean C# and .Net\bin\Debug\lean_C__and.Net.exe
+C:\Users\BeamYoHand\Desktop\RepoGitVsStudio\lean C# and .Net\lean C# and .Net\bin\Debug\lean_C__and.Net.pdb
+C:\Users\BeamYoHand\Desktop\RepoGitVsStudio\lean C# and .Net\lean C# and .Net\obj\Debug\lean C# and .Net.csproj.AssemblyReference.cache
+C:\Users\BeamYoHand\Desktop\RepoGitVsStudio\lean C# and .Net\lean C# and .Net\obj\Debug\lean C# and .Net.csproj.CoreCompileInputs.cache
+C:\Users\BeamYoHand\Desktop\RepoGitVsStudio\lean C# and .Net\lean C# and .Net\obj\Debug\lean_C__and.Net.exe
+C:\Users\BeamYoHand\Desktop\RepoGitVsStudio\lean C# and .Net\lean C# and .Net\obj\Debug\lean_C__and.Net.pdb
+C:\Users\BeamYoHand\Desktop\RepoGitVsStudio\lean C# and .Net\lean C# and .Net\obj\Debug\lean_C__and.Net.exe.config
